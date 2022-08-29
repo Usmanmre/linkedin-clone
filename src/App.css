@@ -1,0 +1,15 @@
+
+
+
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(224, 224, 224);
+  /* height: 1000px; */
+ 
+  
+}
+
+.app-body{
+  display: flex;
+  justify-content:center ;
+}

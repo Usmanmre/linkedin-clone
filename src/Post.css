@@ -1,0 +1,47 @@
+.post{
+    background-color: white;
+    background-color: white;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 10px;
+   
+}
+
+.post-header{
+   
+    display: flex;
+}
+.post-avatar{
+    height: 40px ;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.post-info h2{
+    font-size: 14px;
+    margin-left: 10px;
+}
+.post-info p{
+    font-size: 10px;
+    margin-left: 10px;
+    color: gray;
+
+}
+
+.post-body p{
+    font-size: 13px;
+    padding-top: 10px;
+}
+.post-options-send{
+    cursor: pointer;
+    margin-top: 10px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+   justify-items: flex-start;
+    border-top: 0.5px solid rgb(212, 212, 212);
+}
+
+.post-options-send :hover{
+    color: rgb(0, 81, 244);
+}

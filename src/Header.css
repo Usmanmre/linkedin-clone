@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: rgb(255, 255, 255);
+  height: 45px;
+  /* border-bottom: 1px solid black; */
+  top: 0;
+  box-shadow: 1px 1px 1px #888888 ;
+  position: sticky;
+  
+}
+
+.left-section-head {
+  display: flex;
+}
+.linkdin-img {
+  height: 25px;
+  margin-right: 10px;
+
+}
+
+.header-right{
+  margin-top: 20px;
+  display: flex;
+}
+
+
+
